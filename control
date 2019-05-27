@@ -1,0 +1,9 @@
+Package: com.mtac.settingsip
+Name: SettingsIP
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: The easiest way to get your WiFi IP address!
+Maintainer: MTAC
+Author: MTAC
+Section: Tweaks
